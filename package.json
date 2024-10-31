@@ -34,7 +34,7 @@
     "lodash": "^4.17.21",
     "magic-bytes.js": "^1.0.13",
     "merkletreejs": "^0.2.30",
-    "next": "^12.1.6",
+    "next": "^14.2.10",
     "node-fetch": "^3.2.6",
     "parse-data-url": "^4.0.1",
     "react": "^17.0.2",
